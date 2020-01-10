@@ -9,7 +9,7 @@ url                      : https:// 깃허브 계정.github.io
 # the base hostname & protocol for your site e.g."https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 깃허브 계정/깃허브 계정.github.io
-theme: jekyll-theme-slate
+theme: type-on-strap
 # Site Author
 author:
   name             : "내 이름"
