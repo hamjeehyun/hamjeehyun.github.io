@@ -5,10 +5,10 @@ title                    : "제목"
 title_separator          : "-"
 name                     : "이름"
 description              : "블로그 설명"
-url                      : https:// 깃허브 계정.github.io
+url                      : https://hamjeehyun.github.io
 # the base hostname & protocol for your site e.g."https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : 깃허브 계정/깃허브 계정.github.io
+repository               : hamjeehyun/hamjeehyun.github.io
 theme: type-on-strap
 # Site Author
 author:
