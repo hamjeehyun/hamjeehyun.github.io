@@ -28,7 +28,6 @@ footer_icons:                                           # In _data/social.yml
 share_buttons:                                          # In _data/social.yml
 authors:                                                # In _data/authors.yml
 language:                                               # In _data/language.yml
-google_fonts: "Nanum+Gothic:400, 700"
 
 # PAGINATION
 paginate: 5
