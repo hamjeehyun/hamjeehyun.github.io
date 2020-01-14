@@ -1,11 +1,41 @@
 ---
 layout: post
-title: /
-feature-img: "assets/img/portfolio/petProject.jpg"
-img: "assets/img/portfolio/petProject.jpg"
+title: 지능형 반려동물 케어시스템
+img: "assets/img/portfolio/petIoTService.jpg"
 date: 27 September 2019
 tags: [Portfolio, project]
 ---
+### 프로젝트
+- MQTT 및 Deep Learning 기술을 이용한 지능형 반려동물 케어시스템
+- 팀프로젝트
+<br>
+<br>
+### 프로젝트 기간
+2019.3 - 2019.9
+<br>
+<br>
+### 프로젝트 개요
+최근 1인 가구가 급속히 늘고 있다.<br>
+그에 맞춰 반려동물을 키우는 사람들도 증가하는 추세이다.<br>
+반려동물을 가족처럼 여기는 사람들을 지칭하는 신조어 ‘펫펨족’ 와 반려동물을 자기 자신처럼 여기는 사람들을 지칭하는 신조어 ‘펫미족’이 생겨날 정도이다.<br>
+그러나 1인 가구의 특성상 반려동물이 혼자 집을 지키는 경우가 많다. <br>
+이러한 상황은 반려동물의 분리불안증을 유발시키기도 한다.<br>
+<br>
+‘1인 가구를 위한 반려동물 IoT’ 기술은 반려동물을 자신의 가족처럼, 더 나아가 자기 자신처럼 소중히 여기는 사람들을 위한 서비스로 활용될 수 있다.
+<br>
+<br>
+### 맡은 분야
+- 안드로이드 UI/UX 디자인
+- 안드로이드 어플리케이션 프로그래밍
+- Firebase를 이용한 데이터베이스 관리
+- 딥러닝
+<br>
+<br>
+### 수상내역
+- 2019.6 한성대학교 교내 졸업프로젝트 <혁신상>
+- 2019.8 광운대학교 해커톤 <장려상>
+- 2019.9 한성대학교 교내 공학경진대회 <은상>
 
-
+<br>
+<br>
 ![프로젝트 전체 설명서](/assets/img/portfolio/petProject.jpg)
