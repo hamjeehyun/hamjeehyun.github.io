@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JAVA 시작하기
+title: Spring에 대하여
 hide_title: true     
 date: 20 january 2019
 excerpt_separator: <!--more-->
