@@ -5,7 +5,11 @@ hide_title: true
 date: 16 january 2019
 excerpt_separator: <!--more-->
 ---
-
+# EFFECTIVE JAVA 3/E | 2장. 객체 생성과 파괴
+<br>
+<br>
+<br>
+<br>
 
 <center><img src="/assets/img/pexels/effectiveJAVA.jpg"></center>  
 이펙티브 자바 3판의 정리를 해보겠다.  
