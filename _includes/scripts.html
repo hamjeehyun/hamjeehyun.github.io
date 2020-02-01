@@ -1,23 +1,9 @@
-{% assign tags = include.tags | split:'|' | sort | uniq %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157535363-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-{% if tags.size > 0 %}
-<footer>
-  <div class="tag-list">
-    {% if tags.size == 1 %}
-      <div class="meta">Tag</div>
-    {% else %}
-      <div class="meta">Tags</div>
-    {% endif %}
-
-    {% for tag in tags %}
-    <a class="button" href="{{ "/tags" | relative_url }}#{{ tag | cgi_escape }}">
-      <p><i class="fa fa-tag fa-fw"></i> {{ tag }}</p>
-    </a>
-    {% endfor %}
-  </div>
-</footer>
-{% else %}
-<footer>
-  <div class="tag-list"></div>
-</footer>
-{% endif %}
+  gtag('config', 'UA-157535363-1');
+</script>
