@@ -84,6 +84,6 @@ excerpt_separator: <!--more-->
 - go-live : 프로젝트가 원래 목적을 달성하기 위한 가동과 함께 살아 움직이게 되는 것을 말하는 이벤트
 <br>
 
-<img src="/assets/img/pexels/software.jpg"> 
+<img src="/assets/img/pexels/software.jpeg"> 
 
 # 1.4.1 Project 관리
