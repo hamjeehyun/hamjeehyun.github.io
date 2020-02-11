@@ -74,7 +74,16 @@ excerpt_separator: <!--more-->
 <br>
 <br>
 # 1.4 소프트웨어의 탄생과 폐기
+#### 소프트웨어의 라이프사이클(life cycle)
+먼저 소프트웨어를 만들기 위한 프로젝트가 착수되고 계획이 이루어진다.  
+실제적인 소프트웨어의 모습이 만들어지기 시작하는 것은 프로젝트 실행단계의 분석과정부터이며, 설계과정을 통해 좀더 구체적인 소프트웨어 겉모습이 만들어진다.  
+테스팅을 통해 가동이 제대로 가능한지 여부가 판가름 나게 된다.  
+<br>
+- 사용자 인터페이스(User interface) : 소프트웨어의 겉모습
+- 로직(Logic) / 데이터베이스 구조(Database Structure) : 내부 처리
+- go-live : 프로젝트가 원래 목적을 달성하기 위한 가동과 함께 살아 움직이게 되는 것을 말하는 이벤트
+<br>
 
-<center><img src="/assets/img/pexels/software.jpg"></center>  
+<img src="/assets/img/pexels/software.jpg"> 
 
 # 1.4.1 Project 관리
