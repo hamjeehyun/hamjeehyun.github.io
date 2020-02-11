@@ -85,7 +85,8 @@ excerpt_separator: <!--more-->
 <br>
 
 
-<img src="./assets/img/pexels/software.JPG">
+<center> <img src="./assets/img/pexels/software.JPG"> </center>
+<center> 소프트웨어의 시작과 폐기 과정 </center>
 
 <br>
 <br>
