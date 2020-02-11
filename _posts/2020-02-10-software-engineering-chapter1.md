@@ -83,7 +83,9 @@ excerpt_separator: <!--more-->
 - 로직(Logic) / 데이터베이스 구조(Database Structure) : 내부 처리
 - go-live : 프로젝트가 원래 목적을 달성하기 위한 가동과 함께 살아 움직이게 되는 것을 말하는 이벤트
 <br>
-<img src="/assets/img/pexels/software.jpeg">
+
+<img src="/assets/img/pexels/software.jpg">
+
 <br>
 <br>
 <br>
