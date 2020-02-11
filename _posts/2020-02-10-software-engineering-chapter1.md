@@ -76,3 +76,5 @@ excerpt_separator: <!--more-->
 # 1.4 소프트웨어의 탄생과 폐기
 
 <center><img src="/assets/img/pexels/software.jpg"></center>  
+
+# 1.4.1 Project 관리
