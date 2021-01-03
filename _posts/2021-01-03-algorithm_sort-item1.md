@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ---
 
 # 정렬
-
+<!--more-->
 #### Select Sort
 가장 큰 값을 찾아 뒤로 보낸다
 |순서|결과|
