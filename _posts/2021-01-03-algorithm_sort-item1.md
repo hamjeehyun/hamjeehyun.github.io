@@ -2,7 +2,7 @@
 layout: post
 title: Algorithm | 정렬
 hide_title: true     
-date: 03 february 2021
+date: 03 january 2021
 excerpt_separator: <!--more-->
 ---
 
